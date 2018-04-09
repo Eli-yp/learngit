@@ -1,0 +1,91 @@
+*   [33mcommit 52504bdbb5a0b04a84feeee9ab2f0de3257cd0bb[m
+[31m|[m[32m\[m  Merge: 5a2a6a7 dc7a42e
+[31m|[m [32m|[m Author: Eli-yp <1094870599@qq.com>
+[31m|[m [32m|[m Date:   Sun Apr 8 21:04:25 2018 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     merge with no--ff
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit dc7a42e0f18c86c2ff4dd9498714a8dbeb97ae50[m
+[31m|[m[31m/[m  Author: Eli-yp <1094870599@qq.com>
+[31m|[m   Date:   Sun Apr 8 21:02:35 2018 +0800
+[31m|[m   
+[31m|[m       add merge
+[31m|[m    
+*   [33mcommit 5a2a6a7e7d60aa08f55641d3968a11f08819c30a[m
+[33m|[m[34m\[m  Merge: b087091 bc11b2b
+[33m|[m [34m|[m Author: Eli-yp <1094870599@qq.com>
+[33m|[m [34m|[m Date:   Sun Apr 8 20:52:42 2018 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     conflict fived
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit bc11b2bd49488d41b8ecf1b6ca7ce42f728ade0c[m
+[33m|[m [34m|[m Author: Eli-yp <1094870599@qq.com>
+[33m|[m [34m|[m Date:   Sun Apr 8 20:48:48 2018 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     AND simple
+[33m|[m [34m|[m   
+* [34m|[m [33mcommit b087091021bbc5214fc182f135383aaaa46be7a4[m
+[34m|[m[34m/[m  Author: Eli-yp <1094870599@qq.com>
+[34m|[m   Date:   Sun Apr 8 20:50:32 2018 +0800
+[34m|[m   
+[34m|[m       & simple
+[34m|[m  
+* [33mcommit c629380ba5138514562c52c8bd3b2c200f442ee4[m
+[34m|[m Author: Eli-yp <1094870599@qq.com>
+[34m|[m Date:   Sun Apr 8 20:39:43 2018 +0800
+[34m|[m 
+[34m|[m     branch test
+[34m|[m  
+* [33mcommit 719c509eae8bd829915d0823d60d9b2eb2008b5d[m
+[34m|[m Author: Eli-yp <1094870599@qq.com>
+[34m|[m Date:   Sun Apr 8 19:52:48 2018 +0800
+[34m|[m 
+[34m|[m     add project of 'hello,git'
+[34m|[m  
+* [33mcommit 4efce5686039e2281584df5b46b6a1b6d930dd88[m
+[34m|[m Author: Eli-yp <1094870599@qq.com>
+[34m|[m Date:   Sun Apr 8 19:13:57 2018 +0800
+[34m|[m 
+[34m|[m     add a test.txt
+[34m|[m  
+* [33mcommit 7bd9ddc0cac1b7269e36286f6512a12af1f7e8b8[m
+[34m|[m Author: Eli-yp <1094870599@qq.com>
+[34m|[m Date:   Sun Apr 8 17:32:29 2018 +0800
+[34m|[m 
+[34m|[m     add test.txt
+[34m|[m  
+* [33mcommit 38d6ee7dd600f1d9d637edbc7029dbd8f7f9792b[m
+[34m|[m Author: Eli-yp <1094870599@qq.com>
+[34m|[m Date:   Sun Apr 8 17:19:20 2018 +0800
+[34m|[m 
+[34m|[m     git track changes
+[34m|[m  
+* [33mcommit cf9341ed864d0fa5cc247a27a98e115b1e0fe759[m
+[34m|[m Author: Eli-yp <1094870599@qq.com>
+[34m|[m Date:   Sun Apr 8 17:16:44 2018 +0800
+[34m|[m 
+[34m|[m     git tracks changes
+[34m|[m  
+* [33mcommit fd5e3ec9a9d37844c383a4ff05ca28dc222df81c[m
+[34m|[m Author: Eli-yp <1094870599@qq.com>
+[34m|[m Date:   Sun Apr 8 17:13:54 2018 +0800
+[34m|[m 
+[34m|[m     understand how stage works
+[34m|[m  
+* [33mcommit 125c2e7767646a28bac65ea42e48631acc09e90d[m
+[34m|[m Author: Eli-yp <1094870599@qq.com>
+[34m|[m Date:   Fri Apr 6 11:56:33 2018 +0800
+[34m|[m 
+[34m|[m     add GPL
+[34m|[m  
+* [33mcommit d75f8a7fa4be6756e65389be7268bc4bc6929c3a[m
+[34m|[m Author: Eli-yp <1094870599@qq.com>
+[34m|[m Date:   Fri Apr 6 11:55:08 2018 +0800
+[34m|[m 
+[34m|[m     add distributed
+[34m|[m  
+* [33mcommit 621339b81e4e47bd8a76b7bd010596dab9645493[m
+  Author: Eli-yp <1094870599@qq.com>
+  Date:   Fri Apr 6 11:53:40 2018 +0800
+  
+      wrote a readme file
